@@ -11,6 +11,8 @@
 #### paper
 - [Audio Adversarial Examples: Targeted Attacks on Speech-to-Text](https://arxiv.org/abs/1801.01944)
 - [CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](https://arxiv.org/abs/1801.08535)
+- [Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition](https://arxiv.org/abs/1903.10346)
+
 
 
 ## Natural Language Processing

@@ -13,10 +13,10 @@
 - [CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](https://arxiv.org/abs/1801.08535)
 
 
-#### Natural Language Processing
+## Natural Language Processing
 
 #### paper
-
+- [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
 
 #### slides
 - [NAACL2019][Deep Adversarial Learning for NLP](http://tiny.cc/adversarial)

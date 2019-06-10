@@ -17,8 +17,12 @@
 
 ## Natural Language Processing
 
+
+
 #### paper
-- [Adversarial Training Methods for Semi-Supervised Text Classification](https://arxiv.org/abs/1605.07725)
+
+- [thunlp/TAADpapers](https://github.com/thunlp/TAADpapers)
+
 
 #### slides
 - [NAACL2019][Deep Adversarial Learning for NLP](http://tiny.cc/adversarial)

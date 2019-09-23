@@ -18,11 +18,27 @@
 ## Natural Language Processing
 
 
-
-#### paper
+#### Paper
 
 - [thunlp/TAADpapers](https://github.com/thunlp/TAADpapers)
 
 
-#### slides
+#### Slides
 - [NAACL2019][Deep Adversarial Learning for NLP](http://tiny.cc/adversarial)
+
+
+
+## Tesing 
+- https://openai.com/blog/testing-robustness/
+- paper: https://arxiv.org/abs/1908.08016
+- code: https://github.com/ddkang/advex-uar
+
+
+## Course
+- [facebook ai: Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
+
+
+## Tools
+- [TEXTBUGGER: Generating Adversarial Text Against
+Real-world Applications](https://arxiv.org/pdf/1812.05271.pdf)
+
